@@ -1,0 +1,61 @@
+{
+    "items": [
+        {
+            "img": "./img/supra.jpg",
+            "info": "Asi sera el diseño final del supra",
+            "tipo": "General",
+            "fecha": "12 diciembre 2018",
+            "creado": "JISHIN" 
+        },
+
+        {
+            "img": "./img/hibridos.jpg",
+            "info": "Los hibridos Toyota seguiràn usando dos tipos de bateria",
+            "tipo": "Prius",
+            "fecha": "11 diciembre 2018",
+            "creado": "JISHIN" 
+        },
+        {
+            "img": "./img/sombra.jpg",
+            "info": "La estrella del Tokyo Auto Salon 2019",
+            "tipo": "Actualidad",
+            "fecha": "10 diciembre 2018",
+            "creado": "JISHIN" 
+        },
+        {
+            "img": "./img/pista.jpeg",
+            "info": "Toyota asignaria insignias TRD y AWD  a todos sus modelos",
+            "tipo": "Actualidad",
+            "fecha": "5 diciembre 2018",
+            "creado": "JISHIN" 
+        },
+        {
+            "img": "./img/nieve.jpeg",
+            "info": "¿Por que el Supra y el Z4 son tan poco parecidos?",
+            "tipo": "Actualidad",
+            "fecha": "4 diciembre 2018",
+            "creado": "JISHIN" 
+        },
+        {
+            "img": "./img/arena.jpeg",
+            "info": "¡Toyota Gazoo racing listo para el Rally Dakar 2019!",
+            "tipo": "Hilux",
+            "fecha": "3 diciembre 2018",
+            "creado": "JISHIN" 
+        },
+        {
+            "img": "./img/robot.jpeg",
+            "info": "Toyota usara red 5G para controlar robot T-HR3",
+            "tipo": "Innovacion",
+            "fecha": "30 noviembre 2018",
+            "creado": "JISHIN" 
+        },
+        {
+            "img": "./img/prius.jpg",
+            "info": "Nueva imagen y traccion total para el prius 2019",
+            "tipo": "Prius",
+            "fecha": "28 noviembre 2018",
+            "creado": "JISHIN" 
+        }
+    ]
+}
